@@ -1,2 +1,2 @@
-# qiyangzhang0329.github.io
-Qiyangzhang's Homepage
+# HomePage
+Qiyang Zhang's HomePage: https://qiyangzhang0329.github.io/
